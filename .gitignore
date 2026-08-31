@@ -1,4 +1,5 @@
 #*.gitkeep
 *.DS_Store
 *.docx
-
+*/.ipynb_checkpoints/*
+./solved_lectures/*
